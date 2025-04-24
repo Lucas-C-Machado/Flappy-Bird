@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🐦 Flappy Bird em Java
 
 Clone do clássico **Flappy Bird**, desenvolvido em **Java** com interface gráfica usando **Swing (AWT)**. O jogador deve controlar o pássaro e evitar colidir com os canos, marcando pontos a cada par de obstáculos ultrapassado.
