@@ -12,8 +12,8 @@ public class App { //Classe App nomeada
     public static void main(String[] args) throws Exception { 
 
         //Criação da janela do jogo Flappy Bird
-        int LarguraBorda = 360; //Largura da borda de 360px
-        int AlturaBorda = 640; //Altura da borda de 640px
+        int LarguraBorda = GameConstants.LARGURA_BORDA; //Largura da borda de 360px
+        int AlturaBorda = GameConstants.ALTURA_BORDA; //Altura da borda de 640px
 
         JFrame janela = new JFrame("Flappy Bird"); //Cria um novo objeto/janela da interface gráfica. O texto "Flappy Bird" aparece como título da janela.
         janela.setVisible(true); //Faz a janela visível.
